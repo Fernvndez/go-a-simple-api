@@ -1,6 +1,6 @@
 **Go-A-Simple-API - A Clean Architecture REST API in Go**
 
-📋 Overview
+📋 Overvie
 
 A simple, well-structured REST API built with Go (Golang) that follows clean architecture principles. This project demonstrates a product management API with a clear separation of concerns, making it an excellent learning resource and foundation for building scalable Go applications.
 
